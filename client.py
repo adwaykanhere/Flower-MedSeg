@@ -12,7 +12,7 @@ import shutil
 from multiprocessing import Pool
 
 # Add nnUNet to the Python path
-nnunet_path = "/path/to/nnUNet"  # Replace with your nnUNet path
+nnunet_path = " /Users/akanhere/Documents/nnUNet"  # Replace with your nnUNet path
 sys.path.append(nnunet_path)
 
 from nnunet.training.nnUNetTrainerV2 import nnUNetTrainerV2
