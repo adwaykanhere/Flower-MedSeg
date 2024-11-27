@@ -12,7 +12,7 @@ from flwr.common import parameters_to_ndarrays, ndarrays_to_parameters
 import json
 
 # Add nnUNet to the Python path
-nnunet_path = "/path/to/nnUNet"  # Replace with the path to your nnUNet repository
+nnunet_path = "/Users/akanhere/Documents/nnUNet"  # Replace with the path to your nnUNet repository
 sys.path.append(nnunet_path)
 
 # Correct imports from nnunet
